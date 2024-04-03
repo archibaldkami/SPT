@@ -1,5 +1,5 @@
 # SPT
-Starshine Player Totems requires CIT Resewn and Animatica, or Optifine
+Starshine Player Totems requires CIT Resewn and Animatica, or Optifine. 
 Player totem list:
 - Starlic_lv
 - OVERPACH
