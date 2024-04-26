@@ -56,5 +56,5 @@ other:
 - Starhat ( carved_pumpkin )
 - Невинная ромашка ( elytra )
 
-Также добавлен lower shield, lower fire, no pumpkin overlay
+Also added lower shield, lower fire, no pumpkin overlay
 
