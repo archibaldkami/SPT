@@ -1,6 +1,6 @@
-# SPT
-Starshine Player Totems requires CIT Resewn and Animatica, or Optifine. 
-totem list:
+# Starshine Essentials
+Starshine Essentials requires CIT Resewn and Animatica, or Optifine. 
+totem list ( totem_of_undying )::
 - Starlic_lv
 - OVERPACH
 - OVERPACH_doritos
@@ -26,3 +26,35 @@ totem list:
 - meduzzza
 - OVERPACH_Barbie
 - I_Manicat_suit
+
+- Fackell_
+- FlipLips
+- durker
+- Kolibok
+- NightmaresKing
+- Sectionem
+- Cristys
+- Ликер холова
+- Ликер
+- Hodor_z
+- trolaro
+
+drink list ( potion ):
+- Грин дэй
+- Виски
+- Первак
+- Водка
+
+weapon:
+- staff of homa
+- kamikata
+- scarletkat
+- Cherry katana
+
+
+other:
+- Starhat ( carved_pumpkin )
+- Невинная ромашка ( elytra )
+
+Также добавлен lower shield, lower fire, no pumpkin overlay
+
