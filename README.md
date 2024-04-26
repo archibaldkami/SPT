@@ -26,7 +26,6 @@ totem list ( totem_of_undying )::
 - meduzzza
 - OVERPACH_Barbie
 - I_Manicat_suit
-
 - Fackell_
 - FlipLips
 - durker
