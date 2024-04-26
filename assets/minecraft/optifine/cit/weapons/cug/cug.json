@@ -2,7 +2,7 @@
 	"credit": "Made by Starlic",
 	"texture_size": [32, 32],
 	"textures": {
-		"5": "./kamikata"
+		"5": "./cug"
 	},
 	"elements": [
 		{

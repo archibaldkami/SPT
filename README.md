@@ -47,13 +47,18 @@ drink list ( potion ):
 weapon:
 - staff of homa
 - kamikata
-- scarletkat
-- Cherry katana
+- cherry
+- clade
+- Сумочка
 
 
 other:
 - Starhat ( carved_pumpkin )
 - Невинная ромашка ( elytra )
+- Очки ( carved_pumpkin )
+- Очки голова ( carved_pumpkin )
+- Очки b ( carved_pumpkin )
+- Очки голова b ( carved_pumpkin )
 
 Also added lower shield, lower fire, no pumpkin overlay
 
