@@ -52,7 +52,6 @@ weapon:
 - Сумочка
 - katana rofoo
 
-
 other:
 - Starhat ( carved_pumpkin )
 - Невинная ромашка ( elytra )
