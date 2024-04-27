@@ -1,6 +1,6 @@
 # Starshine Essentials
 Starshine Essentials requires CIT Resewn and Animatica, or Optifine. 
-totem list ( totem_of_undying )::
+totem list ( totem_of_undying ):
 - Starlic_lv
 - OVERPACH
 - OVERPACH_doritos
