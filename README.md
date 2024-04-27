@@ -43,6 +43,7 @@ drink list ( potion ):
 - Виски
 - Первак
 - Водка
+- blood
 
 weapon:
 - staff of homa
