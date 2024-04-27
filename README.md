@@ -50,6 +50,7 @@ weapon:
 - cherry
 - clade
 - Сумочка
+- katana rofoo
 
 
 other:
