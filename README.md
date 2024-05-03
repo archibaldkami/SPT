@@ -1,5 +1,5 @@
 # Starshine Essentials
-Starshine Essentials requires CIT Resewn and Animatica, or Optifine. 
+Starshine Essentials requires CIT Resewn and Animatica, or Optifine and incompatible with Eating Animations. 
 totem list ( totem_of_undying ):
 - Starlic_lv
 - OVERPACH
