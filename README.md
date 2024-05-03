@@ -1,6 +1,6 @@
 # Starshine Essentials
 Starshine Essentials requires CIT Resewn and Animatica, or Optifine and incompatible with Eating Animations. 
-totem list ( totem_of_undying ):
+Totem list ( totem_of_undying ):
 - Starlic_lv
 - OVERPACH
 - OVERPACH_doritos
@@ -51,14 +51,14 @@ totem list ( totem_of_undying ):
 - sunlight23
 - Sever_19007
 
-drink list ( potion ):
+Drink list ( potion ):
 - Грин дэй
 - Виски
 - Первак
 - Водка
 - blood
 
-weapon( diamond/netherite axe/sword ):
+Weapon( diamond/netherite axe/sword ):
 - staff of homa
 - kamikata
 - cherry
@@ -66,7 +66,7 @@ weapon( diamond/netherite axe/sword ):
 - Сумочка
 - katana rofoo
 
-plushie( any potion, golden_carrot, totem_of_undying ):
+Plushie( any potion, golden_carrot, totem_of_undying ):
 - Armor_cat plush
 - aRTEM_13_ plush
 - Cristys plush
@@ -79,7 +79,7 @@ plushie( any potion, golden_carrot, totem_of_undying ):
 - Starlic_lv plush
 - Strayckhock plush
 
-other:
+Other:
 - Senko ( bread, golden_carrot )
 - Starhat ( carved_pumpkin )
 - Невинная ромашка ( elytra )
