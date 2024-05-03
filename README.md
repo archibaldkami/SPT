@@ -37,6 +37,19 @@ totem list ( totem_of_undying ):
 - Ликер
 - Hodor_z
 - trolaro
+- Far1or
+- kdekara
+- Starlic_lv_old
+- D1oxins
+- S1pepega
+- Hellpizza
+- Armor_cat
+- aRTEM_13_NEW
+- rofoo
+- red1ska
+- Starlic_LV_Pink
+- sunlight23
+- Sever_19007
 
 drink list ( potion ):
 - Грин дэй
@@ -45,7 +58,7 @@ drink list ( potion ):
 - Водка
 - blood
 
-weapon:
+weapon( diamond/netherite axe/sword ):
 - staff of homa
 - kamikata
 - cherry
@@ -53,7 +66,21 @@ weapon:
 - Сумочка
 - katana rofoo
 
+plushie( any potion, golden_carrot, totem_of_undying ):
+- Armor_cat plush
+- aRTEM_13_ plush
+- Cristys plush
+- D1oxins plush
+- Far1or plush
+- Hellpizza plush
+- kdekara plush
+- PepeGrand plush
+- rofoo plush
+- Starlic_lv plush
+- Strayckhock plush
+
 other:
+- Senko ( bread, golden_carrot )
 - Starhat ( carved_pumpkin )
 - Невинная ромашка ( elytra )
 - Очки ( carved_pumpkin )
